@@ -1,5 +1,20 @@
 ## COMPUTO MOVIL - TAREA1 - CRUZ RODRIGUEZ RAZIEL 
 
+
+///
+referencias donde sacaras la información
+profundizar:
+sensores
+IOT (autos, wearables, smart cities, etc)
+infraestructura de redes (anchos de banda disponibles)
+telecomunicación(antenas, tecnologías celulares disponibles, Wifi)
+baterías (me interesa por que es un tema importante en móvil)
+la parte de inteligencia artificial 
+realidad aumentada y virtual
+ciencia de datos
+///
+
+
 ## Redes móviles
 
 Las redes móviles sin hilos utilizan servicios telefónicos y servicios públicos para recibir y transmitir señales.
@@ -15,7 +30,18 @@ y los 19.2 kbps.
 ## Comunicaciónes
 Redes inalámbricas globales como GSM (Sistema Global para comunicaciones Móviles), 3G y 4G (3ª y 4ª Generación de comunicaciones 
 digitales de redes celulares), protocolos y arquitectura de seguridad para la transmisión de voz y datos. 
-Integración de diversas tecnologías de comunicaciones alámbricas e inalámbricas
+Integración de diversas tecnologías de comunicaciones alámbricas e inalámbricas.
+
+## Internet Of Things
+
+-Control en cualquier parte, también en tu dispositivo móvil: los vehículos conectados ya están integrados en la red de conexiones creada por el Internet de las cosas, pero hasta ahora todo se gestionaba a través del propio vehículo. En los futuros coches conectados el control lo tendrá el usuario, lo que apunta directamente a la importancia de los smartphones como centro de gestión de todos los dispositivos.
+
+-Comunicación con todos los vehículos: los sensores instalados en los coches conectados en combinación con la telemática avanzada van a permitir que los vehículos se comuniquen y compartan información entre ellos y con otras redes (como infraestructuras externas), aumentando la eficiencia de las operaciones dentro del coche. El principal beneficio que se espera de esta característica es reducir los atascos así como los accidentes.
+
+-Más unidos que nunca a las carreteras (inteligentes): las carreteras, como infraestructura fundamental para la conducción, también tendrán que adaptarse a los coches conectados para que puedan maximizar su potencial. Las llamadas Smart Roads serán una pieza fundamental en aspectos como la regulación del flujo de tráfico o la seguridad (para evitar colisiones). Además, las carreteras inteligentes se convertirán en una valiosa fuente de datos.
+
+-Integrados con las Smart Cities: Los coches conectados solo tienen sentido en un entorno de ciudades totalmente inteligentes. Muchas zonas urbanas ya están avanzando hacia la meta de la Smart City, pero para sacar partido de todas las ventajas de estos vehículos se hace imprescindible transformar completamente las ciudades. Los coches conectados serán tan inteligentes como lo sea su entorno.
+
 
 ## Areas de oportunidades en la computacion movil en la actualidad 
 
