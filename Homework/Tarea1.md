@@ -45,6 +45,16 @@ Integración de diversas tecnologías de comunicaciones alámbricas e inalámbri
 
 ## Areas de oportunidades en la computacion movil en la actualidad 
 
+## Las baterias de los dispositivos
+
+Entre los problemas de los dispositivos móviles está que la carga de la batería dura muy poco tiempo, lo que se puede presentar cuando se utiliza el equipo con mucha frecuencia, en especial si se usan funciones que requieren mayor energía, como la pantalla, y antenas como Bluetooth o Wi-Fi, entre otras.
+Las baterías pierden autonomía a lo largo del día, y según el dispositivo las aplicaciones consumen una cantidad que sobrepasa su capacidad ocasionando que se descargue rápidamente y le restan autonomía.
+
+Se debe tener en cuenta que la mayoría de las baterías que se consiguen en el mercado actual están compuestas por litio, por lo que para aumentar su capacidad también se debe modificar su composición con otros componentes como el silicio, capaz de suministrar altas cantidades de litio en comparación con los otros materiales con base de carbono.
+
+Investigadores han dado con la solución a las deflagraciones en las baterías de electrolito sólido: no solo son más seguras que las actuales de ion litio, también ofrecen una mayor densidad de energía ya que necesitan menos espacio en equivalencia. Otro prometedor avance es el uso del grafeno, un material compuesto por nanotubos de carbono que reduce el peso de las baterías y su tamaño, aumenta la densidad energética, funciona a mayores temperaturas y habilita una carga mucho más rápida.
+
+El grafeno y las baterías son la promesa de futuro desde hace varios años, pero aún no es viable a nivel de producción en masa. Todo lo contrario de las baterías con electrolito en estado sólido: todo apunta a que las veremos en móviles, coches y otros dispositivos este mismo 2018.
 ## Aplicaciones in-house
 
 El único artículo en esta lista que no trata sobre seguridad exploró cómo construir y desplegar aplicaciones móviles. 
