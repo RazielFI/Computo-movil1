@@ -1,0 +1,13 @@
+
+Proyecto final - Cruz Rodriguez Raziel
+- Can Do It -
+
+Asistente KanBan
+Herrmienta para gestionar el
+trabajo intelectual, con énfasis en la entrega justo a 
+tiempo, mientras no se sobrecarguen los miembros del equipo.
+
+La aplicacion sera offline, es decir solo podra visualizar el kanban un usuario.
+
+Similar a trello, con tarjetas en tres columnas, con drag and drop.
+Cada tarjeta puede tener texto, o lista de tareas, distintos colores de tareja y se puede anexar imagenes.
